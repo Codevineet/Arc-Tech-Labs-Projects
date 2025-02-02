@@ -20,4 +20,5 @@ To get started, follow these steps:
 
 4. **Preview**:
 
-    ![Your Image]("C:\Users\Vineet\OneDrive\Pictures\Screenshots\Screenshot 2025-02-02 150124.png")
+   ![Your Image](./images/Screenshot%202025-02-02%20150124.png)
+
