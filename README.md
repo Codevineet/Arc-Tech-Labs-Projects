@@ -12,9 +12,12 @@ To get started, follow these steps:
     ```bash
     npm install
     ```
+
 3. **Run**:
     ```bash
     npm run dev
     ```
 
+4. **Preview**:
 
+    ![Your Image]("C:\Users\Vineet\OneDrive\Pictures\Screenshots\Screenshot 2025-02-02 150124.png")
