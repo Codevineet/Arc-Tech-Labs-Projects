@@ -18,7 +18,4 @@ To get started, follow these steps:
     npm run dev
     ```
 
-4. **Preview**:
-
-   ![Your Image](./images/Screenshot%202025-02-02%20150124.png)
 
