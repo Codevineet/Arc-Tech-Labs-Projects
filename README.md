@@ -12,5 +12,9 @@ To get started, follow these steps:
     ```bash
     npm install
     ```
+3. 2. **Run**:
+    ```bash
+    npm run dev
+    ```
 
 
